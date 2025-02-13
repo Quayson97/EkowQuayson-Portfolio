@@ -1,1 +1,5 @@
-
+title: Ekow Quayson
+#logo: /assests/img/ekowquayson.png
+description: Data Engineering Portfolio
+show_downloads: False
+theme: jekyll-theme-minimal
