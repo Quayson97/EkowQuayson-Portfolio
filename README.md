@@ -2,19 +2,19 @@
 #### Technical Skills: Python, SQL, AWS
 
 ### Education 
-BSc. Electrical and Electronic Engineering | University of Energy and Natural Resources (_Novemeber 2020_)
+- BSc. Electrical and Electronic Engineering | University of Energy and Natural Resources (_Novemeber 2020_)
 
 ### Work Experience 
 **Freelance Data Annotator @ Aya Data (_December 2024 - February 2025_)**
 - Annotated large-scale images and videos for AI/ML projects using bounding boxes and segmentation techniques
 - Utilized annotation platforms like CVAT, Darwin, and Super AI to ensure high-quality labeled data.
 
-**Volunteer Data Science Study Group Lead @ African Leadership Experience (ALX) (_October 2024 - Present)**
+**Volunteer Data Science Study Group Lead @ African Leadership Experience (ALX) (_October 2024 - Present_)**
 - Taught Python programming, Machine learning, and Statistics concepts to ALX Ghana Data Science program learners.
 - Lead peer discussions on weekly project challenges and submissions. 
 - Gather feedback from peers on their understanding of course materials and relay it to the ALX Data Science team.
 
-**Volunteer AiCE Mentor @ African Leadership Experience (ALX) (_July 2024 - Nov 2024)**
+**Volunteer AiCE Mentor @ African Leadership Experience (ALX) (_July 2024 - Nov 2024_)**
 - Guided learners on using AI tools like ChatGPT and Copilot for professional growth and productivity.
 -	Assisted students in completing their weekly milestones, providing support where needed.
 -	Collected feedback on student progress and shared insights with the AiCE team.
