@@ -47,10 +47,12 @@ Build the machine learning model for the wine quality dataset
 
 ### Certifications
 AWS Certified Cloud Practitioner @ Amazon Web Services (_June 2024 - June 2027_) [Link] (https://tinyurl.com/24scu86z)
-AI Career Essentials @ African Leadership Experience (ALX) (_May 2024_) [Link] (https://intranet.alxswe.com/certificates/xncEYy83G5)
-Python for Data Science, AI, and Development @ IBM (_August 2023_) [Link] (https://www.coursera.org/account/accomplishments/verify/FDU3T8RZKW3J)
-Certificate of Achievement as Aice Volunteer Mentor @ African Leadership Experience 
 
+AI Career Essentials @ African Leadership Experience (ALX) (_May 2024_) [Link] (https://intranet.alxswe.com/certificates/xncEYy83G5)
+
+Python for Data Science, AI, and Development @ IBM (_August 2023_) [Link] (https://www.coursera.org/account/accomplishments/verify/FDU3T8RZKW3J)
+
+Certificate of Achievement as Aice Volunteer Mentor @ African Leadership Experience 
 
 ### Recommendation Letter
 Rumbidzai Hove, AiCE Program Manager @ African Leadership Experience
