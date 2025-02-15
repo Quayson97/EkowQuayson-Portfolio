@@ -2,6 +2,8 @@
 #### Technical Skills: Python, SQL, AWS
 
 ### Education 
+- MSc. Electrical and Electronic Engineering | University of Mines and Technology (_January 2024 - November 2020_)
+- Data Science | African Leadership Experience (_October 2023 - April_2025) 
 - BSc. Electrical and Electronic Engineering | University of Energy and Natural Resources (_Novemeber 2020_)
 
 ### Work Experience 
