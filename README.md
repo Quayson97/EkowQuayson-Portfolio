@@ -31,7 +31,7 @@ This project uses SQL to investigate water accessibility challenges in Maji Ndog
 
 This project utilizes data-wrangling techniques to clean the dataset, ensuring it is prepared for comprehensive exploratory data analysis.
 
-#### MD (Python-Based Project)
+#### MD_Agric-Data-Pipeline(Python-Based Project)
 [Github link](https://github.com/Quayson97/MD_AGric-Data-Pipeline.git)
 
 Built a data pipeline to automate data ingestion, cleaning, and validation of agriculture datasets using SQL and Python. Developed automated scripts to detect and correct inconsistencies, missing values, and anomalies, ensuring high-quality data for better decision-making in agriculture.
