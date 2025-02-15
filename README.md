@@ -1,5 +1,5 @@
 # Data Engineer
-#### Technical Skills: Python, SQL, AWS
+#### Technical Skills: Python, SQL, AWS, Git, Github
 
 ### Education 
 - MSc. Electrical and Electronic Engineering | University of Mines and Technology (_January 2024 - November 2025_)
@@ -15,7 +15,7 @@
 - Lead peer discussions on weekly project challenges and submissions. 
 - Gather feedback from peers on their understanding of course materials and relay it to the ALX Data Science team.
 
-**Volunteer AiCE Mentor @ African Leadership Experience (ALX) (_July 2024 - Nov 2024_)**
+**Volunteer AiCE Mentor @ African Leadership Experience (ALX) (_July 2024 - Nov 2024_)
 - Guided learners on using AI tools like ChatGPT and Copilot for professional growth and productivity.
 -	Assisted students in completing their weekly milestones, providing support where needed.
 -	Collected feedback on student progress and shared insights with the AiCE team.
