@@ -52,8 +52,8 @@ AI Career Essentials @ African Leadership Experience (ALX) (_May 2024_) [Link](h
 
 Python for Data Science, AI, and Development @ IBM (_August 2023_) [Link](https://www.coursera.org/account/accomplishments/verify/FDU3T8RZKW3J)
 
-Certificate of Achievement as Aice Volunteer Mentor @ African Leadership Experience 
+Certificate of Achievement as Aice Volunteer Mentor @ African Leadership Experience (ALX) [Link](https://drive.google.com/file/d/1QD9MGc9AK_56gwBFLqCnQqwVf2bumy88/view?usp=sharing)
 
 ### Recommendation Letter
-Rumbidzai Hove, AiCE Program Manager @ African Leadership Experience
+Rumbidzai Hove, AiCE Program Manager @ African Leadership Experience (ALX) [Link](https://drive.google.com/file/d/1x2EesRR45HhxD6poiaXdxQYJLLGR-hwN/view?usp=sharing)
 
