@@ -26,15 +26,15 @@
 
 Analyzed a large-scale water crisis dataset using SQL, cleaning and organizing data to identify patterns in water availability. Applied joins filters, and aggregations to extract insights that improved water distribution planning.
 
+#### Used_cars-Data Manipulation-project 
+[Github link] ()
+
+This will be a short introduction analysis and conclusion of the MD AGRIC Data set
+
 #### Maji Ndogo Agriculture Dataset (Python-Based Project)
 [Github link] ()
 
 Built a data pipeline to automate data ingestion, cleaning, and validation of agriculture datasets using SQL and Python. Developed automated scripts to detect and correct inconsistencies, missing values, and anomalies, ensuring high-quality data for better decision-making in agriculture.
-
-#### MD Agric Data Analysis
-[Github link] ()
-
-This will be a short introduction analysis and conclusion of the MD AGRIC Data set
 
 #### Machine learning model (Regression)
 [Github link] ()
