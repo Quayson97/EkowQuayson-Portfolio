@@ -21,27 +21,27 @@
 -	Collected feedback on student progress and shared insights with the AiCE team.
 
 ### Projects 
-**Restoring the Lifeblood of Maji Ndogo (SQL-Based Data Analysis Project)**
+#### Restoring the Lifeblood of Maji Ndogo (SQL-Based Data Analysis Project)
 [Github link] ()
 
 Analyzed a large-scale water crisis dataset using SQL, cleaning and organizing data to identify patterns in water availability. Applied joins filters, and aggregations to extract insights that improved water distribution planning.
 
-**Maji Ndogo Agriculture Dataset (Python-Based Project)**
+#### Maji Ndogo Agriculture Dataset (Python-Based Project)**
 [Github link] ()
 
 Built a data pipeline to automate data ingestion, cleaning, and validation of agriculture datasets using SQL and Python. Developed automated scripts to detect and correct inconsistencies, missing values, and anomalies, ensuring high-quality data for better decision-making in agriculture.
 
-**MD Agric Data Analysis**
+#### MD Agric Data Analysis
 [Github link] ()
 
 This will be a short introduction analysis and conclusion of the MD AGRIC Data set
 
-**Machine learning model (Regression)**
+#### Machine learning model (Regression)
 [Github link] ()
 
 Build and analyze the results for the model.
 
-**Machine Learning Model (SVC) Wine Quality Dataset**
+#### Machine Learning Model (SVC) Wine Quality Dataset
 [Github link] ()
 
 Build the machine learning model for the wine quality dataset
