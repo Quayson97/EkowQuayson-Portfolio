@@ -26,10 +26,10 @@
 
 This project uses SQL to investigate water accessibility challenges in Maji Ndogo using SQL. It analyzes key factors such as water source distribution, population reliance, and queue times. 
 
-#### Used_cars-Data Manipulation-project 
-[Github link] ()
+#### Used-Car-Prices Data Cleaning project(Python)
+[Github link](https://github.com/Quayson97/Used-Car-Prices.git)
 
-This will be a short introduction analysis and conclusion of the MD AGRIC Data set
+This project utilizes data-wrangling techniques to clean the dataset, ensuring it is prepared for comprehensive exploratory data analysis.
 
 #### Maji Ndogo Agriculture Dataset (Python-Based Project)
 [Github link] ()
