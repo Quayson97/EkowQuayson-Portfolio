@@ -31,15 +31,11 @@ This project uses SQL to investigate water accessibility challenges in Maji Ndog
 
 This project utilizes data-wrangling techniques to clean the dataset, ensuring it is prepared for comprehensive exploratory data analysis.
 
-#### Maji Ndogo Agriculture Dataset (Python-Based Project)
-[Github link] ()
+#### MD (Python-Based Project)
+[Github link](https://github.com/Quayson97/MD_AGric-Data-Pipeline.git)
 
 Built a data pipeline to automate data ingestion, cleaning, and validation of agriculture datasets using SQL and Python. Developed automated scripts to detect and correct inconsistencies, missing values, and anomalies, ensuring high-quality data for better decision-making in agriculture.
 
-#### Machine learning model (Regression)
-[Github link] ()
-
-Build and analyze the results for the model.
 
 #### Machine Learning Model (SVC) Wine Quality Dataset
 [Github link] ()
