@@ -23,7 +23,6 @@
 ### Projects 
 #### Restoring the Lifeblood of Maji Ndogo (SQL-Based Data Analysis Project)
 [Github link](https://github.com/Quayson97/Restoring-the-lifeblood-of-Maji-Ndogo.git)
-
 This project uses SQL to investigate water accessibility challenges in Maji Ndogo using SQL. It analyzes key factors such as water source distribution, population reliance, and queue times. 
 
 #### Used_cars-Data Manipulation-project 
