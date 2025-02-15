@@ -2,9 +2,9 @@
 #### Technical Skills: Python, SQL, AWS
 
 ### Education 
-- MSc. Electrical and Electronic Engineering | University of Mines and Technology (_January 2024 - November 2020_)
-- Data Science | African Leadership Experience (_October 2023 - April_2025) 
-- BSc. Electrical and Electronic Engineering | University of Energy and Natural Resources (_Novemeber 2020_)
+- MSc. Electrical and Electronic Engineering | University of Mines and Technology (_January 2024 - November 2025_)
+- Data Science | African Leadership Experience (_October 2023 - April 2025_) 
+- BSc. Electrical and Electronic Engineering | University of Energy and Natural Resources (_September 2016 - November 2020_)
 
 ### Work Experience 
 **Freelance Data Annotator @ Aya Data (_December 2024 - February 2025_)**
