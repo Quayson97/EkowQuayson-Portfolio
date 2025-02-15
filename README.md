@@ -31,12 +31,12 @@ Analyzed a large-scale water crisis dataset using SQL, cleaning and organizing d
 
 Built a data pipeline to automate data ingestion, cleaning, and validation of agriculture datasets using SQL and Python. Developed automated scripts to detect and correct inconsistencies, missing values, and anomalies, ensuring high-quality data for better decision-making in agriculture.
 
-#### MD AGRIC DATA ANALYSIS
+#### MD Agric Data Analysis
 [Github link] ()
 
 This will be a short introduction analysis and conclusion of the MD AGRIC Data set
 
-### Machine learning model (Regression)
+#### Machine learning model (Regression)
 [Github link] ()
 
 Build and analyze the results for the model.
