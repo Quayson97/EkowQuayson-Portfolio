@@ -8,7 +8,7 @@
 ### Work Experience 
 **Freelance Data Annotator @ Aya Data (_December 2024 - February 2025_)**
 - Annotated large-scale images and videos for AI/ML projects using bounding boxes and segmentation techniques
-- Utilized annotation platforms like CVAT, Darwin, and Super AI to ensure high-quality labeled data.
+- Utilized annotation platforms like CVAT, Darwin7, and SuperbAI to ensure high-quality labeled data.
 
 **Volunteer Data Science Study Group Lead @ African Leadership Experience (ALX) (_October 2024 - Present_)**
 - Taught Python programming, Machine learning, and Statistics concepts to ALX Ghana Data Science program learners.
