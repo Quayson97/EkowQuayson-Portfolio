@@ -26,7 +26,7 @@
 
 Analyzed a large-scale water crisis dataset using SQL, cleaning and organizing data to identify patterns in water availability. Applied joins filters, and aggregations to extract insights that improved water distribution planning.
 
-#### Maji Ndogo Agriculture Dataset (Python-Based Project)**
+#### Maji Ndogo Agriculture Dataset (Python-Based Project)
 [Github link] ()
 
 Built a data pipeline to automate data ingestion, cleaning, and validation of agriculture datasets using SQL and Python. Developed automated scripts to detect and correct inconsistencies, missing values, and anomalies, ensuring high-quality data for better decision-making in agriculture.
