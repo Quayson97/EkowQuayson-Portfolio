@@ -3,7 +3,6 @@
 
 ### Education 
 - MSc. Electrical and Electronic Engineering | University of Mines and Technology (_January 2024 - November 2025_)
-- Data Science |      African Leadership Experience (_October 2023 - April 2025_) 
 - BSc. Electrical and Electronic Engineering | University of Energy and Natural Resources (_September 2016 - November 2020_)
 
 ### Work Experience 
@@ -46,6 +45,10 @@ Build and analyze the results for the model.
 [Github link] ()
 
 Build the machine learning model for the wine quality dataset
+
+### Training
+- AWS re/start programme | Amalitech (_April 2024 - June 2024_)
+- Data Science Programme | African Leadership Experience (_October 2023 - April 2025_)
 
 ### Certifications
 AWS Certified Cloud Practitioner @ Amazon Web Services (_June 2024 - June 2027_) [Link](https://tinyurl.com/24scu86z)
