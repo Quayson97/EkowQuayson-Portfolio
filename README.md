@@ -36,11 +36,10 @@ This project utilizes data-wrangling techniques to clean the dataset, ensuring i
 
 Built a data pipeline to automate data ingestion, cleaning, and validation of agriculture datasets using SQL and Python. Developed automated scripts to detect and correct inconsistencies, missing values, and anomalies, ensuring high-quality data for better decision-making in agriculture.
 
+#### Hyperparameter_tuning_Wine Quality(Machine Learning model)
+[Github link](https://github.com/Quayson97/Hyperparameter_tuning-Wine_Dataset.git)
 
-#### Machine Learning Model (SVC) Wine Quality Dataset
-[Github link] ()
-
-Build the machine learning model for the wine quality dataset
+This project developed and optimized an SVM model for wine quality classification, achieving high accuracy (>96%) and demonstrating the effectiveness of hyperparameter tuning in improving model performance.
 
 ### Training
 - AWS re/start programme | Amalitech (_April 2024 - June 2024_)
